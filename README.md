@@ -17,6 +17,9 @@ You may clone the repository with: "xxxxxxxxxx"
 
 You will require the following R packages"
 - tidyverse
+- data.table
+- rstudioapi
+- ggforce
 - vegan
 - patchwork
-- 
+- ape
