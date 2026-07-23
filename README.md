@@ -23,3 +23,4 @@ You will require the following R packages"
 - vegan
 - patchwork
 - ape
+- Biostrings
